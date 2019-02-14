@@ -1,0 +1,25 @@
+Package: Capstone
+Type: Package
+Title: Mastering Software Development in R Capstone
+Version: 0.1.0
+Date: 2019-02-05
+Author: Freddy F. Tapia C.
+Maintainer: Freddy F. Tapia C. <freddy.tapia.28@gmail.com>
+Description: Provided functions to work with Earthquake data.
+Depends: R (>= 3.5.0)
+License: GPL (>= 2)
+Imports: dplyr,
+    readr,
+    tidyr, 
+    magrittr, 
+    stringr, 
+    tools,
+    ggplot2, 
+    leaflet,
+    lubridate
+LazyData: TRUE
+RoxygenNote: 6.1.1
+Suggests: knitr,
+    rmarkdown,
+    testthat
+VignetteBuilder: knitr
