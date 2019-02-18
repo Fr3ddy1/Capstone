@@ -7,7 +7,7 @@ Author: Freddy F. Tapia C.
 Maintainer: Freddy F. Tapia C. <freddy.tapia.28@gmail.com>
 Description: Provided functions to work with Earthquake data.
 Depends: R (>= 3.5.0)
-License: GPL (>= 2)
+License: GPL (>= 2) | file LICENSE
 Imports: dplyr,
     readr,
     tidyr, 
