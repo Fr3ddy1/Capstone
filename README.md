@@ -1,6 +1,6 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Fr3ddy1/Capstone?branch=master&svg=true)](https://ci.appveyor.com/project/Fr3ddy1/Capstone)
+[![Travis build status](https://travis-ci.org/Fr3ddy1/Capstone.svg?branch=master)](https://travis-ci.org/Fr3ddy1/Capstone) [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/Fr3ddy1/Capstone?branch=master&svg=true)](https://ci.appveyor.com/project/Fr3ddy1/Capstone)
 
 Capstone
 ========
